@@ -1,4 +1,3 @@
-```markdown
 # Firebase Connection Setup
 
 1. **Login to Firebase**  
@@ -47,7 +46,4 @@
    firebase deploy
    ```
 
----
-
 Your Firebase app should now be live after the deployment.
-```
